@@ -73,3 +73,5 @@ Inside the twitter.go file, I wrote a concurrent Go program that implements a ta
   * This will run 50,000 commands in the twitter feed and output the results to out.txt.
   * Try ```go run twitter.go < 50000.txt > out.txt``` for the sequential version.
 * Check out report.pdf to see the efficiencies gained with the parallel implementation.
+
+*Source: This was an assignment from Professor Samuel Lamont, University of Chicago - Parallel Programming.*
